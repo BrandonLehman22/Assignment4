@@ -46,7 +46,7 @@
 			<State>New York</State>
 			<Zip>10001</Zip>
 			<NearestAirport>John F. Kennedy International Airport</NearestAirport>
-
+		</Address>
 		<Rating>5.0</Rating>
 	</Hotel>
 
@@ -168,6 +168,7 @@
 
 		<Rating>5.0</Rating>
 	</Hotel>
+
 
 
 </Hotel>
