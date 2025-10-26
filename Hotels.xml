@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="">
+<Hotels xmlns="https://brandonlehman22.github.io/Assignment4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://brandonlehman22.github.io/Assignment4/Hotels.xsd">
 
 	<Hotel>
 		<Name>Four Seasons Resort Hualalai</Name>
@@ -171,4 +171,5 @@
 
 		<Rating>5.0</Rating>
 	</Hotel>
+
 </Hotels>
