@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="">
+
+	<Hotel>
+		<Name>Four Seasons Resort Hualalai</Name>
+
+		<Phone>808 325-8000</Phone>
+
+		<Address>
+			<Number>72-100 </Number>
+			<Street>Ka'upulehu Drive</Street>
+			<City>Kailua-Kona</City>
+			<State>Hawaii</State>
+			<Zip>96740</Zip>
+			<NearestAirport>KOA-Kona</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+
+	</Hotel>
+
+	<Hotel>
+		<Name>Acqualina Resort and Residences On The Beach</Name>
+
+		<Phone>305 918-8000</Phone>
+
+		<Address>
+			<Number>17875</Number>
+			<Street>Collins Ave</Street>
+			<City>Sunny Isles Beach</City>
+			<State>Florida</State>
+			<Zip>33160</Zip>
+			<NearestAirport>Miami International</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Ritz-Carlton New York, NoMad</Name>
+
+		<Phone>212 404-8400</Phone>
+
+		<Address>
+			<Number>25</Number>
+			<Street>W 28th st</Street>
+			<City>New York</City>
+			<State>New York</State>
+			<Zip>10001</Zip>
+			<NearestAirport>John F. Kennedy International Airport</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Little Nell</Name>
+
+		<Phone>970 920-4600</Phone>
+
+		<Address>
+			<Number>675</Number>
+			<Street>E Durant Ave</Street>
+			<City>Aspen</City>
+			<State>Colorado</State>
+			<Zip>81611</Zip>
+			<NearestAirport>Aspen/Pitkin County Airport</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Beverly Hills Hotel</Name>
+
+		<Phone>310 276-2251</Phone>
+
+		<Address>
+			<Number>9641</Number>
+			<Street>Sunset Blvd</Street>
+			<City>Beverly Hills</City>
+			<State>California</State>
+			<Zip>90210</Zip>
+			<NearestAirport>Los Angeles International Airport</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Raffles Boston</Name>
+
+		<Phone>617 351-8888</Phone>
+
+		<Address>
+			<Number>40</Number>
+			<Street>Trinity Pl</Street>
+			<City>Boston</City>
+			<State>Massachusetts</State>
+			<Zip>02116</Zip>
+			<NearestAirport>Boston Logan International Airport</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Peninsula Chicago</Name>
+
+		<Phone>312 337-2888</Phone>
+
+		<Address>
+			<Number>108</Number>
+			<Street>E Superior St</Street>
+			<City>Chicago</City>
+			<State>Illinois</State>
+			<Zip>60611</Zip>
+			<NearestAirport>O'Hare International Airport</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Broadmoor</Name>
+
+		<Phone>855 634-7711</Phone>
+
+		<Address>
+			<Number>1</Number>
+			<Street>Lake Ave</Street>
+			<City>Colorado Springs</City>
+			<State>Colorado</State>
+			<Zip>80906</Zip>
+			<NearestAirport>Colorado Springs Airport</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The American Club</Name>
+
+		<Phone>844 247-9140</Phone>
+
+		<Address>
+			<Number>419</Number>
+			<Street>Highland Dr</Street>
+			<City>Kohler</City>
+			<State>Wisconsin</State>
+			<Zip>53044</Zip>
+			<NearestAirport>Mitchell International Airport</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Breakers Palm Beach</Name>
+
+		<Phone>561 655 6611</Phone>
+
+		<Address>
+			<Number>1</Number>
+			<Street>S County Rd</Street>
+			<City>Palm Beach</City>
+			<State>Florida</State>
+			<Zip>33480</Zip>
+			<NearestAirport>Palm Beach International Airport</NearestAirport>
+		</Address>
+
+		<Rating>5.0</Rating>
+	</Hotel>
+</Hotels>
