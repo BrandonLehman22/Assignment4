@@ -4,7 +4,7 @@
 	<Hotel>
 		<Name>Four Seasons Resort Hualalai</Name>
 
-		<Phone>808 325-8000</Phone>
+		<Phone>808-325 8000</Phone>
 
 		<Address>
 			<Number>72-100 </Number>
@@ -22,7 +22,7 @@
 	<Hotel>
 		<Name>Acqualina Resort and Residences On The Beach</Name>
 
-		<Phone>305 918-8000</Phone>
+		<Phone>305-918 8000</Phone>
 
 		<Address>
 			<Number>17875</Number>
@@ -38,7 +38,7 @@
 	<Hotel>
 		<Name>The Ritz-Carlton New York, NoMad</Name>
 
-		<Phone>212 404-8400</Phone>
+		<Phone>212-404 8400</Phone>
 
 		<Address>
 			<Number>25</Number>
@@ -54,7 +54,7 @@
 	<Hotel>
 		<Name>The Little Nell</Name>
 
-		<Phone>970 920-4600</Phone>
+		<Phone>970-920 4600</Phone>
 
 		<Address>
 			<Number>675</Number>
@@ -70,7 +70,7 @@
 	<Hotel>
 		<Name>The Beverly Hills Hotel</Name>
 
-		<Phone>310 276-2251</Phone>
+		<Phone>310-276 2251</Phone>
 
 		<Address>
 			<Number>9641</Number>
@@ -87,7 +87,7 @@
 	<Hotel>
 		<Name>Raffles Boston</Name>
 
-		<Phone>617 351-8888</Phone>
+		<Phone>617-351 8888</Phone>
 
 		<Address>
 			<Number>40</Number>
@@ -104,7 +104,7 @@
 	<Hotel>
 		<Name>The Peninsula Chicago</Name>
 
-		<Phone>312 337-2888</Phone>
+		<Phone>312-337 2888</Phone>
 
 		<Address>
 			<Number>108</Number>
@@ -121,7 +121,7 @@
 	<Hotel>
 		<Name>The Broadmoor</Name>
 
-		<Phone>855 634-7711</Phone>
+		<Phone>855-634 7711</Phone>
 
 		<Address>
 			<Number>1</Number>
@@ -138,7 +138,7 @@
 	<Hotel>
 		<Name>The American Club</Name>
 
-		<Phone>844 247-9140</Phone>
+		<Phone>844-247 9140</Phone>
 
 		<Address>
 			<Number>419</Number>
@@ -155,7 +155,7 @@
 	<Hotel>
 		<Name>The Breakers Palm Beach</Name>
 
-		<Phone>561 655 6611</Phone>
+		<Phone>561-655 6611</Phone>
 
 		<Address>
 			<Number>1</Number>
@@ -170,6 +170,7 @@
 	</Hotel>
 
 </Hotels>
+
 
 
 
