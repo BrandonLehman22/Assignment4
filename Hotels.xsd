@@ -1,12 +1,12 @@
 ﻿<xsd:schema 
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	xmlns="https://github.com/BrandonLehman22/Assignment4" 
-	targetNamespace="https://github.com/BrandonLehman22/Assignment4" 
+	xmlns="https://brandonlehman22.github.io/Assignment4/" 
+	targetNamespace="https://brandonlehman22.github.io/Assignment4/" 
 	elementFormDefault="qualified" 
 	attributeFormDefault="unqualified">
 	
 	<xsd:annotation>
-		<xsd:documentation xml:lang="en"> Assignment 4 </xsd:documentation>
+		<xsd:documentation xml:lang="en"> Assignment4 </xsd:documentation>
 	</xsd:annotation>
 	
 	<xsd:element name="Hotels" type="HotelType"/>
@@ -43,6 +43,7 @@
 	</xsd:simpleType>
 
 </xsd:schema>
+
 
 
 
