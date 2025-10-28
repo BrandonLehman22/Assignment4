@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns="https://github.com/BrandonLehman22/Assignment4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/BrandonLehman22/Assignment4 https://brandonlehman22.github.io/Assignment4/Hotels.xsd">
+<Hotel xmlns="https://github.com/BrandonLehman22/Assignment4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/BrandonLehman22/Assignment4 https://brandonlehman22.github.io/Assignment4/Hotels.xsd">
 
 	<Hotel>
 		<Name>Four Seasons Resort Hualalai</Name>
@@ -11,7 +11,7 @@
 			<Street>Ka'upulehu Drive</Street>
 			<City>Kailua-Kona</City>
 			<Zip>96740</Zip>
-			<NearestAirport>KOA-Kona</NearestAirport>
+			
 		</Address>
 
 		<Rating>5.0</Rating>
@@ -29,7 +29,6 @@
 			<State>Florida</State>
 			<Zip>33160</Zip>
 			<NearestAirport>Miami International</NearestAirport>
-		</Address>
 
 		<Rating>5.0</Rating>
 	</Hotel>
@@ -149,7 +148,6 @@
 			<NearestAirport>Mitchell International Airport</NearestAirport>
 		</Address>
 
-		<Rating>5.0</Rating>
 	</Hotel>
 
 	<Hotel>
@@ -166,12 +164,10 @@
 			<NearestAirport>Palm Beach International Airport</NearestAirport>
 		</Address>
 
-		<Rating>5.0</Rating>
 	</Hotel>
 
+</Hotel>
 
-
-</Hotels>
 
 
 
