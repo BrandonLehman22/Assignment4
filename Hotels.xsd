@@ -1,7 +1,7 @@
 ﻿<xsd:schema 
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-	xmlns="https://brandonlehman22.github.io/Assignment4/" 
-	targetNamespace="https://brandonlehman22.github.io/Assignment4/" 
+	xmlns="https://brandonlehman22.github.io/Assignment4" 
+	targetNamespace="https://brandonlehman22.github.io/Assignment4" 
 	elementFormDefault="qualified" 
 	attributeFormDefault="unqualified">
 	
@@ -43,6 +43,7 @@
 	</xsd:simpleType>
 
 </xsd:schema>
+
 
 
 
