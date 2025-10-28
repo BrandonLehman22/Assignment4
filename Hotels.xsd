@@ -21,7 +21,7 @@
 			<xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
 			<xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="1"/>
 			<xsd:element name="Address" type="AddressDetails" minOccurs="1" maxOccurs="1"/>
-			<xsd:element name="Rating" type="xsd:positiveInteger" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Rating" type="xsd:decimal" minOccurs="0" maxOccurs="1"/>
 		</xsd:sequence>
 	</xsd:complexType>
 	
@@ -36,13 +36,6 @@
 		</xsd:sequence>
 	</xsd:complexType>
 	
-	<xsd:complexType name="NameType">
-		<xsd:sequence>
-			<xsd:element name="First" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-			<xsd:element name="Last" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-		</xsd:sequence>
-	</xsd:complexType>
-	
 	<xsd:simpleType name="PhoneType">
 		<xsd:restriction base="xsd:string">
 			<xsd:pattern value="\d{3}\-\d{3} \d{4}"/>
@@ -50,6 +43,7 @@
 	</xsd:simpleType>
 
 </xsd:schema>
+
 
 
 
