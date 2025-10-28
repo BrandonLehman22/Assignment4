@@ -20,7 +20,7 @@
 		<xsd:sequence>
 			<xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
 			<xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-			<xsd:element name="Address" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Address" type="AddressDetails" minOccurs="1" maxOccurs="1"/>
 			<xsd:element name="Rating" type="xsd:positiveInteger" minOccurs="0" maxOccurs="1"/>
 		</xsd:sequence>
 	</xsd:complexType>
@@ -50,5 +50,6 @@
 	</xsd:simpleType>
 
 </xsd:schema>
+
 
 
