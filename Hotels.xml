@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns="https://github.com/BrandonLehman22/Assignment4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/BrandonLehman22/Assignment4 https://brandonlehman22.github.io/Assignment4/Hotels.xsd">
+<Hotels xmlns="https://github.com/BrandonLehman22/Assignment4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/BrandonLehman22/Assignment4 https://raw.githubusercontent.com/BrandonLehman22/Assignment4/refs/heads/main/Hotels.xsd">
 
 	<Hotel>
 		<Name>Four Seasons Resort Hualalai</Name>
@@ -170,6 +170,7 @@
 	</Hotel>
 
 </Hotels>
+
 
 
 
