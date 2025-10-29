@@ -4,7 +4,7 @@
 		<Name>Four Seasons Resort Hualalai</Name>
 
 		<Phone>808-325 8000</Phone>
-
+		<Phone>808-325 8000</Phone>
 		<Address>
 			<Number>72-100 </Number>
 			<Street>Ka'upulehu Drive</Street>
@@ -22,7 +22,8 @@
 		<Name>Acqualina Resort and Residences On The Beach</Name>
 
 		<Phone>305-918 8000</Phone>
-
+		<Phone>305-918 8000</Phone>
+		
 		<Address>
 			<Number>17875</Number>
 			<Street>Collins Ave</Street>
@@ -37,6 +38,7 @@
 	<Hotel>
 		<Name>The Ritz-Carlton New York, NoMad</Name>
 
+		<Phone>212-404 8400</Phone>
 		<Phone>212-404 8400</Phone>
 
 		<Address>
@@ -169,6 +171,7 @@
 	</Hotel>
 
 </Hotels>
+
 
 
 
